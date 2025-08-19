@@ -1,0 +1,6 @@
+clinical_csv: ../preprocessing/clinical/clinical_df.csv
+imputation_method: mean
+missingness_thresh: 0.2
+output_dir: Imputed_MatrixExport_NP_A
+protein_group_csv: ../preprocessing/imputed/input_files/protein_df_Imputed_MatrixExport_NP_A.csv
+var: Condition

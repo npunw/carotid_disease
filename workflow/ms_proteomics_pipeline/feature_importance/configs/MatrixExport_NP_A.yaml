@@ -1,0 +1,9 @@
+clinical_csv: ../preprocessing/clinical/clinical_df.csv
+drop_values: null
+imputation_method: mean
+missingness_thresh: 0.2
+output_dir: MatrixExport_NP_A
+protein_group_csv: ../preprocessing/imputed/input_files/protein_df_MatrixExport_NP_A.csv
+protgroup_gene_map_json: ../preprocessing/imputed/input_files/protgroup_gene_map_MatrixExport_NP_A.json
+seed: 42
+var: Condition
